@@ -1,1 +1,1 @@
-Inside of this directory I have stored the image files for the baby level certifications which codecademy provides :)))))
+Inside of this directory I have stored the image files for certifications which codecademy provides 
