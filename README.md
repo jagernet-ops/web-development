@@ -1,1 +1,1 @@
-Inside of this repository I will be tracking all of my progress in learning website development with HTML, CSS, and JavaScript. Later on I will reference other repositories containing code for more complex projects such as React based applications and maybe even Nodejs.
+Inside of this repository I will be tracking all of my progress in learning web development with HTML, CSS, and JavaScript.
